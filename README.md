@@ -36,9 +36,9 @@ $ python2 fbs.py
 <br/>
 ...
 <br/>
-• TOOL USER : (knock me on facebook)
+• TOOL USER : thanda
 <br/>
-• TOOL PASS : (knock me on facebook)
+• TOOL PASS : gorom
 <br/>
 ....
 <br/>
